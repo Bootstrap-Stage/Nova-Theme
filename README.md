@@ -8,4 +8,6 @@ Nova-Theme
 ![NOVA Bootstrap Responsive Theme](http://shapebootstrap.net/wp-content/uploads/2013/08/nova-banner.png)
 
 
-Free Responsive HTML Theme Built With Bootstrap
+
+
+Free Responsive HTML Theme Built With Twiter Bootstrap 3
